@@ -8,10 +8,10 @@ This repository includes the data recolected by the Colombian team and the jupyt
   * Luis A. Nuñez (lnunez@uis.edu.co) 
   * David Alejandro Miranda Mercado (dalemir@uis.edu.co)
   
-  ### Participans:
+  ### Participants:
   * Juan Manuel Pacheco Arias (juan.pacheco@correo.uis.edu.co)
   * Natalia Lucía Oliveros Gómez (natalia.oliveros@correo.uis.edu.co)
-  * Laura Natalia Martínez Ramírez (laura.martínez@correo.uis.edu.co)
+  * Laura Natalia Martínez Ramírez (laura.martinez@correo.uis.edu.co)
   * Cristian Eduardo Hernández Cely (cristian.hernandez@correo.uis.edu.co)
   * Steven Fernando Rico Aparicio (steven.rico@correo.uis.edu.co)
   * Cristian Rolando Carvajal Bohorquez (cristian.carvajal@correo.uis.edu.co)
