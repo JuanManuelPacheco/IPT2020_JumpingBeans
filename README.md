@@ -11,8 +11,8 @@ This repository includes the data recolected by the Colombian team and the jupyt
   ### Participants:
   * Juan Manuel Pacheco Arias (juan.pacheco@correo.uis.edu.co)
   * Natalia Lucía Oliveros Gómez (natalia.oliveros@correo.uis.edu.co)
-  * Laura Natalia Martínez Ramírez (laura.martinez@correo.uis.edu.co)
-  * Cristian Eduardo Hernández Cely (cristian.hernandez@correo.uis.edu.co)
+  * Laura Natalia Martínez Ramírez (laura.martinez13@correo.uis.edu.co)
+  * Cristian Eduardo Hernández Cely (cristian.hernandez17@correo.uis.edu.co)
   * Steven Fernando Rico Aparicio (steven.rico@correo.uis.edu.co)
   * Cristian Rolando Carvajal Bohorquez (cristian.carvajal@correo.uis.edu.co)
 
@@ -23,5 +23,3 @@ This repository includes the data recolected by the Colombian team and the jupyt
   * /Simulation/: This folder contains the videos extracted from the simulations created for the problem.
   
   * /Notebooks/: This folder contains the Jupyter Notebooks used to process the data of the problem.
-  
-  * /Presentation/: This folder contains the PDF file of the presentation of jumping beans problem.
